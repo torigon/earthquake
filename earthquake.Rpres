@@ -1,7 +1,7 @@
 Prediction of the Seismic Intensity Scale
 ========================================================
 author: Yuko Torii
-date: October 7, 2016
+date: October 5, 2016
 autosize: true
 
 <style>
