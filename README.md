@@ -5,3 +5,5 @@ The purpose of this project is to predict a maximum seismic intensity scale of e
 Please visit <https://torigon.shinyapps.io/earthquake/> to use the Shiny application of this project.
 
 You can watch my presentation from <https://torigon.github.io/earthquake/>.
+
+This project predicts Seismic Intensity Scale 3 or larger.
